@@ -1,4 +1,4 @@
-# Atividade Final do Semestre - Arquitetura de Microserviços
+# Atividade Final do Semestre - Microserviços
 
 Este repositório contém a implementação dos microserviços utilizando Docker e Eureka, além de um API Gateway para roteamento de requisições. Os serviços envolvidos são:
 
